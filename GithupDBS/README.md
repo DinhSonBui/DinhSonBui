@@ -79,7 +79,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="DinhSonBui-linkedin" />
   </a>
   <a href="https://instagram.com/DinhSonBui" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="DinhSonBui-instagram" />
+    <img src="https://img.igit stcons8.com/bubbles/100/000000/instagram.png" alt="DinhSonBui-instagram" />
   </a>
   <a href="mailto:DinhSonBui.official@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="DinhSonBui-email" />
