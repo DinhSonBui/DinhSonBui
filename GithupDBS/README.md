@@ -66,22 +66,19 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="" target="blank">
-    <img width="90" height="90" src="images/logo-removebg-preview.png" alt="DinhSonBui-blog" />
+  <a href="https://bui-dinh-son.vercel.app/" target="blank">
+    <img width="90" height="90" src="/images/logo-removebg-preview.png" alt="DinhSonBui-blog" />
   </a>
-  <a href="https://facebook.com/DinhSonBui" target="blank">
+  <a href="https://www.facebook.com/dinhson1209" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="DinhSonBui-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/DinhSonBuiOfficial" target="blank">
+  <a href="https://www.youtube.com/channel/UCgAbHL4DuJqNJqZryJBId6A" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="DinhSonBui-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/DinhSonBui" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="DinhSonBui-linkedin" />
-  </a>
-  <a href="https://instagram.com/DinhSonBui" target="blank">
+  <a href="" target="blank">
     <img src="https://img.igit stcons8.com/bubbles/100/000000/instagram.png" alt="DinhSonBui-instagram" />
   </a>
-  <a href="mailto:DinhSonBui.official@gmail.com" target="top">
+  <a href="mailto:buidinhsonn1209@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="DinhSonBui-email" />
   </a>
 </div>
